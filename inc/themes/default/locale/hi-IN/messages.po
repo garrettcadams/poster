@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Nextpost v3.0 - Default Theme\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 
+msgid "About"
+msgstr "के बारे में"
+
+#: 
+msgid "Features"
+msgstr "विशेषताएं"
+
+#: 
+msgid "Prices"
+msgstr "कीमतें"
+
+#: 
+msgid "Hi, %s"
+msgstr "नमस्ते, %s"
+
+#: 
+msgid "Login"
+msgstr "लॉग इन "
+
+#: 
+msgid "Sign up"
+msgstr "साइन अप करें"
+
+#: 
+msgid "A Smarter way to <br> Auto Post on Instagram"
+msgstr "इन्स्टाग्राम पर ऑटो पोस्ट करने <br> के लिए एक शानदार तरीका"
+
+#: 
+msgid "Save time managing your Instagram accounts, publish and analyze all your posts in one panel."
+msgstr "अपने इन्स्टाग्राम खातों को प्रबंधित करने का समय बचाने के लिए, एक ही पैनल में अपनी सभी पोस्ट को प्रकाशित और विश्लेषित करें"
+
+#: 
+msgid "Get started"
+msgstr "शुरू करें"
+
+#: 
+msgid "Free trial available"
+msgstr "नि: शुल्क ट्रायल उपलब्ध"
+
+#: 
+msgid "%s day free trial"
+msgid_plural "%s days free trial"
+msgstr[0] "%s दिन का निशुल्क ट्रायल"
+msgstr[1] "%s दिनों का निशुल्क ट्रायल"
+
+#: 
+msgid "Here is features for you"
+msgstr "यहां आपके लिए सुविधाएं हैं"
+
+#: 
+msgid "Unique Design"
+msgstr "अद्वितीय डिजाइन"
+
+#: 
+msgid "Multi Accounts"
+msgstr "मल्टी अकाउंट्स"
+
+#: 
+msgid "Auto Post Content"
+msgstr "ऑटो पोस्ट सामग्री"
+
+#: 
+msgid "Schedule Calendar"
+msgstr "शेड्यूल कैलेंडर"
+
+#: 
+msgid "Free Trial"
+msgstr "मुफ्त ट्रायल"
+
+#: 
+msgid "Safe to use"
+msgstr "उपयोग करने के लिए सुरक्षित"
+
+#: 
+msgid "Mobile Responsive"
+msgstr "मोबाइल रेस्पोंसिव "
+
+#: 
+msgid "Could Import"
+msgstr "आयात कर सकता है"
+
+#: 
+msgid "Relevant prices for you"
+msgstr "आपके लिए प्रासंगिक कीमतें"
+
+#: 
+msgid "per month"
+msgstr "प्रति माह"
+
+#: 
+msgid "Annual Price"
+msgstr "वार्षिक मूल्य"
+
+#: 
+msgid "You save %s"
+msgstr "आपने %s की बचत की "
+
+#: 
+msgid "Only 1 account"
+msgid_plural "Up to %s accounts"
+msgstr[0] "केवल 1 खाता"
+msgstr[1] "%s खाते तक"
+
+#: 
+msgid "Unlimited accounts"
+msgstr "असीमित खाते"
+
+#: 
+msgid "Zero accounts"
+msgstr "शून्य खाते"
+
+#: 
+msgid "Post Types"
+msgstr "पोस्ट प्रकार"
+
+#: 
+msgid "Photo"
+msgstr "तस्वीर"
+
+#: 
+msgid "Video"
+msgstr "वीडियो"
+
+#: 
+msgid "Story"
+msgstr "कहानी"
+
+#: 
+msgid "Photo+Video"
+msgstr "फोटो + वीडियो"
+
+#: 
+msgid "Photo only"
+msgstr "केवल तस्वीर "
+
+#: 
+msgid "Video only"
+msgstr "केवल वीडियो"
+
+#: 
+msgid "Album"
+msgstr "एल्बम"
+
+#: 
+msgid "Cloud Import"
+msgstr "क्लाउड आयात"
+
+#: 
+msgid "Not available"
+msgstr "उपलब्ध नहीं है"
+
+#: 
+msgid "Modules"
+msgstr "Modules"
+
+#: 
+msgid "Spintax Support"
+msgstr "स्पिनटैक्स समर्थन"
+
+#: 
+msgid "Storage"
+msgstr "भंडारण"
+
+#: 
+msgid "Copyright"
+msgstr "कॉपीराइट"
+
+#: 
+msgid "Login credentials didn't match!"
+msgstr "लॉग इन क्रेडेंशियल्स मेल नहीं खाते!"
+
+#: 
+msgid "Login with Facebook"
+msgstr "फेसबुक से लॉग इन करें"
+
+#: 
+msgid "Email address"
+msgstr "ईमेल पता"
+
+#: 
+msgid "Password"
+msgstr "पासवर्ड"
+
+#: 
+msgid "Remember me"
+msgstr "मुझे याद रखना"
+
+#: 
+msgid "Forgot your password?"
+msgstr "क्या आप अपना पासवर्ड भूल गए?"
+
+#: 
+msgid "Sign in"
+msgstr "साइन इन करें"
+
+#: 
+msgid "Password Reset"
+msgstr "पासवर्ड रिसेट करें"
+
+#: 
+msgid "New Password"
+msgstr "नया पासवर्ड"
+
+#: 
+msgid "Password confirm"
+msgstr "पासवर्ड की पुष्टि"
+
+#: 
+msgid "Reset Password"
+msgstr "पासवर्ड रिसेट"
+
+#: 
+msgid "Success!"
+msgstr "सफलता!"
+
+#: 
+msgid "You've successfully reset your password!"
+msgstr "आपने अपना पासवर्ड सफलतापूर्वक रिसेट कर दिया है!"
+
+#: 
+msgid "Password Recovery"
+msgstr "पासवर्ड की दोबारा प्राप्ति"
+
+#: 
+msgid "Your e-mail address"
+msgstr "आपका ईमेल पता"
+
+#: 
+msgid "Submit"
+msgstr "जमा करें"
+
+#: 
+msgid "Enter your registration email address to receive password reset instructions."
+msgstr "पासवर्ड रिसेट निर्देश प्राप्त करने के लिए अपना पंजीकरण ईमेल पता दर्ज करें"
+
+#: 
+msgid "Email Sent!"
+msgstr "ईमेल भेजा!"
+
+#: 
+msgid "Password reset instruction sent to your email address."
+msgstr "पासवर्ड रिसेट निर्देश आपके ईमेल पते पर भेजा गया।"
+
+#: 
+msgid "Signup"
+msgstr "साइन अप "
+
+#: 
+msgid "Sign up to <br> managing Instagram!"
+msgstr "इन्स्टाग्राम के प्रबंधन के लिए साइन अप करें!"
+
+#: 
+msgid "Firstname"
+msgstr "पहला नाम"
+
+#: 
+msgid "Lastname"
+msgstr "अंतिम नाम"
+
+#: 
+msgid "Email"
+msgstr "ईमेल"
+
+#: 
+msgid "Confirm password"
+msgstr "पासवर्ड की पुष्टि कीजिये"
+
+#: 
+msgid "Select your timezone"
+msgstr "अपना समयक्षेत्र चुनें"
+
+#: 
+msgid "Get Started"
+msgstr "शुरू करें"
+
+#: 
+msgid "By creating an acount you agree to our terms of service."
+msgstr "एक खाता बनाने से आप हमारी सेवा की शर्तों से सहमत होते हैं।"
+
+#: 
+msgid "Already have an account?"
+msgstr "क्या आपके पास पहले से एक खाता मौजूद है?"
+
+#: 
+msgid "It’s absolutely free and takes less than 30 seconds."
+msgstr "It’s absolutely free and takes less than 30 seconds."
+

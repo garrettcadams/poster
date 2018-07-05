@@ -1,0 +1,189 @@
+/* Form */
+.fluid{
+    display: block !important; 
+    width: 100% !important;
+}
+
+
+.form-result {
+    font-size: 16px;
+    line-height: 20px;
+
+    &>div { margin-bottom: 5px; }
+    &>div:last-child { margin-bottom: 0px; }
+}
+
+
+// Inputs
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 1000px $color-light inset !important;
+}
+
+.input {
+    @include box-sizing(border-box);
+    display: block;
+    width: 100%;
+    height: 50px;
+    padding: 15px 0;
+
+    color: $color-mid;
+    font-size: 14px;
+    line-height: 19px;
+
+
+    border: none;
+    border-bottom: 1px solid $border-color;
+    background-color: transparent;
+    outline: none;
+
+    &:focus {
+        border-color: $color-primary;
+    }
+}
+
+.input.error {
+    border-color: $color-danger;
+}
+
+
+// Buttons
+.button {
+    @include box-sizing(border-box);
+    display: inline-block; 
+    height: 50px;
+    padding: 15px 12px;
+
+    text-decoration: none;
+    text-align: center;
+    font-size: 12px;
+    line-height: 20px;
+    font-family: $primary-font-family;
+    color: #fff;
+    font-weight: 500;
+
+    outline: none;
+    border: none;
+    background-color: #00E3AE;
+    background: linear-gradient(320.44deg, #00E3AE 0%, #9BE15D 100%);
+    border-radius: 8px;
+
+    cursor: pointer;
+    @include transition($transition);
+
+    &:hover {
+        background-color: #9BE15D;
+        background: linear-gradient(220.44deg, #00E3AE 0%, #9BE15D 100%);
+    }
+}
+
+
+.button--dark {
+    background-color: $color-dark;
+    background-image: none;
+
+    &:hover {
+        background-color: darken($color-dark, 10%);
+        background-image: none;
+    }
+}
+
+
+.button--oval {
+    border-radius: 100px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.button--outline {
+    background: transparent;
+    border: 1px solid #fff;
+    line-height: 18px;
+
+    &:hover {
+        color: $color-primary;
+        background: #fff;
+    }
+}
+
+
+.button--small {
+    height: 40px;
+    padding: 10px 20px;
+}
+
+
+
+/* Checkbox */
+.checkbox { display: none; }
+.checkbox+div {
+    position: relative;
+    padding-left: 24px;
+
+    font-size: 12px;
+    line-height: 20px;
+
+    cursor: pointer;
+
+    @include user-select(none);
+    @include transition($transition);
+
+    .icon {
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        font-size: 20px;
+        line-height: 1;
+
+        @include transition($transition);
+    }
+}
+.checkbox:checked+div {
+    color: $color-dark;
+}
+
+.checkbox+div .icon.unchecked { 
+    opacity: 1;
+    visibility: visible; 
+}
+.checkbox+div .icon.checked {
+    opacity: 0;
+    visibility: hidden;
+    @include transform(scale(0.7));
+}
+.checkbox:checked+div .icon.checked {
+    color: $color-success;
+
+    opacity: 1;
+    visibility: visible;
+    @include transform(scale(1));
+}
+
+
+
+
+/* Fancy field */
+.fancy-field {
+    position: relative;
+    padding-top: 20px;
+
+    label {
+        position: absolute;
+        margin-bottom: 1px;
+        top: 35px;
+
+        font-size: 14px;
+        line-height: 19px;
+        color: $color-grey;
+
+        @include transition($transition);
+    }
+
+    .input:focus+label,
+    .input.hasvalue+label {
+        top: 0;
+
+        color: $color-mid;
+        font-size: 12px;
+    }
+}

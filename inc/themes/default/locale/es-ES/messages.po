@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Nextpost v3.0 - Default Theme\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 
+msgid "About"
+msgstr "Acerca de"
+
+#: 
+msgid "Features"
+msgstr "Características"
+
+#: 
+msgid "Prices"
+msgstr "Precios"
+
+#: 
+msgid "Hi, %s"
+msgstr "Hola, %s"
+
+#: 
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: 
+msgid "Sign up"
+msgstr "Regístrate"
+
+#: 
+msgid "A Smarter way to <br> Auto Post on Instagram"
+msgstr "Una manera más inteligente de <br> auto correos en Instagram"
+
+#: 
+msgid "Save time managing your Instagram accounts, publish and analyze all your posts in one panel."
+msgstr "Ahorrar tiempo de gestión de sus cuentas de Instagram, publicar y analizar todos sus correos en un panel."
+
+#: 
+msgid "Get started"
+msgstr "Obtener empezado"
+
+#: 
+msgid "Free trial available"
+msgstr "Prueba gratuita disponible"
+
+#: 
+msgid "%s day free trial"
+msgid_plural "%s days free trial"
+msgstr[0] "Prueba gratuita de %s day"
+msgstr[1] "%s días de prueba gratis"
+
+#: 
+msgid "Here is features for you"
+msgstr "Aquí está características para usted"
+
+#: 
+msgid "Unique Design"
+msgstr "Diseño unico"
+
+#: 
+msgid "Multi Accounts"
+msgstr "Cuentas múltiples"
+
+#: 
+msgid "Auto Post Content"
+msgstr "Contenido de publicación automática"
+
+#: 
+msgid "Schedule Calendar"
+msgstr "Horario Calendario"
+
+#: 
+msgid "Free Trial"
+msgstr "Prueba gratis"
+
+#: 
+msgid "Safe to use"
+msgstr "Seguro de usar"
+
+#: 
+msgid "Mobile Responsive"
+msgstr "Móvil Responsivo"
+
+#: 
+msgid "Could Import"
+msgstr "Pudo Importación"
+
+#: 
+msgid "Relevant prices for you"
+msgstr "Pertinente Precios para usted"
+
+#: 
+msgid "per month"
+msgstr "por mes"
+
+#: 
+msgid "Annual Price"
+msgstr "Precio Anual"
+
+#: 
+msgid "You save %s"
+msgstr "Ahorras %s"
+
+#: 
+msgid "Only 1 account"
+msgid_plural "Up to %s accounts"
+msgstr[0] "Sólo 1 cuenta"
+msgstr[1] "Hasta %s cuentas"
+
+#: 
+msgid "Unlimited accounts"
+msgstr "Cuentas ilimitadas"
+
+#: 
+msgid "Zero accounts"
+msgstr "Cero cuentas"
+
+#: 
+msgid "Post Types"
+msgstr "Correos typps"
+
+#: 
+msgid "Photo"
+msgstr "Foto"
+
+#: 
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgid "Story"
+msgstr "Cuento"
+
+#: 
+msgid "Photo+Video"
+msgstr "Foto+Video"
+
+#: 
+msgid "Photo only"
+msgstr "Foto solamente"
+
+#: 
+msgid "Video only"
+msgstr "Sólo vídeo"
+
+#: 
+msgid "Album"
+msgstr "Álbum"
+
+#: 
+msgid "Cloud Import"
+msgstr "Cloud Import"
+
+#: 
+msgid "Not available"
+msgstr "No disponible"
+
+#: 
+msgid "Modules"
+msgstr "Modules"
+
+#: 
+msgid "Spintax Support"
+msgstr "Soporte de Spintax"
+
+#: 
+msgid "Storage"
+msgstr "Almacenamiento"
+
+#: 
+msgid "Copyright"
+msgstr "Derechos de autor"
+
+#: 
+msgid "Login credentials didn't match!"
+msgstr "Las credenciales de inicio de sesión no coinciden!"
+
+#: 
+msgid "Login with Facebook"
+msgstr "Iniciar sesión con Facebook"
+
+#: 
+msgid "Email address"
+msgstr "Dirección de correo electrónico"
+
+#: 
+msgid "Password"
+msgstr "Contraseña"
+
+#: 
+msgid "Remember me"
+msgstr "Recuérdame"
+
+#: 
+msgid "Forgot your password?"
+msgstr "Olvidó su contraseña?"
+
+#: 
+msgid "Sign in"
+msgstr "Ingresar"
+
+#: 
+msgid "Password Reset"
+msgstr "Restablecimiento de contraseña"
+
+#: 
+msgid "New Password"
+msgstr "Nueva contraseña"
+
+#: 
+msgid "Password confirm"
+msgstr "Contraseña confirmar"
+
+#: 
+msgid "Reset Password"
+msgstr "Restablecer la contraseña"
+
+#: 
+msgid "Success!"
+msgstr "Éxito"
+
+#: 
+msgid "You've successfully reset your password!"
+msgstr "Usted ha restablecido correctamente la contraseña!"
+
+#: 
+msgid "Password Recovery"
+msgstr "Recuperación de contraseña"
+
+#: 
+msgid "Your e-mail address"
+msgstr "Tu correo electrónico"
+
+#: 
+msgid "Submit"
+msgstr "Enviar"
+
+#: 
+msgid "Enter your registration email address to receive password reset instructions."
+msgstr "Introduzca su dirección de correo electrónico de registro para recibir instrucciones de restablecimiento de contraseña."
+
+#: 
+msgid "Email Sent!"
+msgstr "Correo electrónico enviado!"
+
+#: 
+msgid "Password reset instruction sent to your email address."
+msgstr "Instrucción de restablecimiento de contraseña enviada a su dirección de correo electrónico."
+
+#: 
+msgid "Signup"
+msgstr "Regístrate"
+
+#: 
+msgid "Sign up to <br> managing Instagram!"
+msgstr "Subscribe to <br> management Instagram!"
+
+#: 
+msgid "Firstname"
+msgstr "Nombre de pila"
+
+#: 
+msgid "Lastname"
+msgstr "Apellido"
+
+#: 
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: 
+msgid "Confirm password"
+msgstr "Confirmar contraseña"
+
+#: 
+msgid "Select your timezone"
+msgstr "Selecciona tu zona horaria"
+
+#: 
+msgid "Get Started"
+msgstr "Obtener Empezado"
+
+#: 
+msgid "By creating an acount you agree to our terms of service."
+msgstr "Al crear una cuenta acepta nuestras condiciones de servicio."
+
+#: 
+msgid "Already have an account?"
+msgstr "Ya tiene una cuenta?"
+
+#: 
+msgid "It’s absolutely free and takes less than 30 seconds."
+msgstr "It’s absolutely free and takes less than 30 seconds."
+

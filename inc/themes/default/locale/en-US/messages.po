@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Nextpost v3.0 - Default Theme\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 
+msgid "About"
+msgstr "About"
+
+#: 
+msgid "Features"
+msgstr "Features"
+
+#: 
+msgid "Prices"
+msgstr "Prices"
+
+#: 
+msgid "Hi, %s"
+msgstr "Hi, %s"
+
+#: 
+msgid "Login"
+msgstr "Login"
+
+#: 
+msgid "Sign up"
+msgstr "Sign up"
+
+#: 
+msgid "A Smarter way to <br> Auto Post on Instagram"
+msgstr "A Smarter way to <br> Auto Post on Instagram"
+
+#: 
+msgid "Save time managing your Instagram accounts, publish and analyze all your posts in one panel."
+msgstr "Save time managing your Instagram accounts, publish and analyze all your posts in one panel."
+
+#: 
+msgid "Get started"
+msgstr "Get started"
+
+#: 
+msgid "Free trial available"
+msgstr "Free trial available"
+
+#: 
+msgid "%s day free trial"
+msgid_plural "%s days free trial"
+msgstr[0] "%s day free trial"
+msgstr[1] "%s days free trial"
+
+#: 
+msgid "Here is features for you"
+msgstr "Here is features for you"
+
+#: 
+msgid "Unique Design"
+msgstr "Unique Design"
+
+#: 
+msgid "Multi Accounts"
+msgstr "Multi Accounts"
+
+#: 
+msgid "Auto Post Content"
+msgstr "Auto Post Content"
+
+#: 
+msgid "Schedule Calendar"
+msgstr "Schedule Calendar"
+
+#: 
+msgid "Free Trial"
+msgstr "Free Trial"
+
+#: 
+msgid "Safe to use"
+msgstr "Safe to use"
+
+#: 
+msgid "Mobile Responsive"
+msgstr "Mobile Responsive"
+
+#: 
+msgid "Could Import"
+msgstr "Could Import"
+
+#: 
+msgid "Relevant prices for you"
+msgstr "Relevant prices for you"
+
+#: 
+msgid "per month"
+msgstr "per month"
+
+#: 
+msgid "Annual Price"
+msgstr "Annual Price"
+
+#: 
+msgid "You save %s"
+msgstr "You save %s"
+
+#: 
+msgid "Only 1 account"
+msgid_plural "Up to %s accounts"
+msgstr[0] "Only 1 account"
+msgstr[1] "Up to %s accounts"
+
+#: 
+msgid "Unlimited accounts"
+msgstr "Unlimited accounts"
+
+#: 
+msgid "Zero accounts"
+msgstr "Zero accounts"
+
+#: 
+msgid "Post Types"
+msgstr "Post Types"
+
+#: 
+msgid "Photo"
+msgstr "Photo"
+
+#: 
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgid "Story"
+msgstr "Story"
+
+#: 
+msgid "Photo+Video"
+msgstr "Photo+Video"
+
+#: 
+msgid "Photo only"
+msgstr "Photo only"
+
+#: 
+msgid "Video only"
+msgstr "Video only"
+
+#: 
+msgid "Album"
+msgstr "Album"
+
+#: 
+msgid "Cloud Import"
+msgstr "Cloud Import"
+
+#: 
+msgid "Not available"
+msgstr "Not available"
+
+#: 
+msgid "Modules"
+msgstr "Modules"
+
+#: 
+msgid "Spintax Support"
+msgstr "Spintax Support"
+
+#: 
+msgid "Storage"
+msgstr "Storage"
+
+#: 
+msgid "Copyright"
+msgstr "Copyright"
+
+#: 
+msgid "Login credentials didn't match!"
+msgstr "Login credentials didn't match!"
+
+#: 
+msgid "Login with Facebook"
+msgstr "Login with Facebook"
+
+#: 
+msgid "Email address"
+msgstr "Email address"
+
+#: 
+msgid "Password"
+msgstr "Password"
+
+#: 
+msgid "Remember me"
+msgstr "Remember me"
+
+#: 
+msgid "Forgot your password?"
+msgstr "Forgot your password?"
+
+#: 
+msgid "Sign in"
+msgstr "Sign in"
+
+#: 
+msgid "Password Reset"
+msgstr "Password Reset"
+
+#: 
+msgid "New Password"
+msgstr "New Password"
+
+#: 
+msgid "Password confirm"
+msgstr "Password confirm"
+
+#: 
+msgid "Reset Password"
+msgstr "Reset Password"
+
+#: 
+msgid "Success!"
+msgstr "Success!"
+
+#: 
+msgid "You've successfully reset your password!"
+msgstr "You've successfully reset your password!"
+
+#: 
+msgid "Password Recovery"
+msgstr "Password Recovery"
+
+#: 
+msgid "Your e-mail address"
+msgstr "Your e-mail address"
+
+#: 
+msgid "Submit"
+msgstr "Submit"
+
+#: 
+msgid "Enter your registration email address to receive password reset instructions."
+msgstr "Enter your registration email address to receive password reset instructions."
+
+#: 
+msgid "Email Sent!"
+msgstr "Email Sent!"
+
+#: 
+msgid "Password reset instruction sent to your email address."
+msgstr "Password reset instruction sent to your email address."
+
+#: 
+msgid "Signup"
+msgstr "Signup"
+
+#: 
+msgid "Sign up to <br> managing Instagram!"
+msgstr "Sign up to <br> managing Instagram!"
+
+#: 
+msgid "Firstname"
+msgstr "Firstname"
+
+#: 
+msgid "Lastname"
+msgstr "Lastname"
+
+#: 
+msgid "Email"
+msgstr "Email"
+
+#: 
+msgid "Confirm password"
+msgstr "Confirm password"
+
+#: 
+msgid "Select your timezone"
+msgstr "Select your timezone"
+
+#: 
+msgid "Get Started"
+msgstr "Get Started"
+
+#: 
+msgid "By creating an acount you agree to our terms of service."
+msgstr "By creating an acount you agree to our terms of service."
+
+#: 
+msgid "Already have an account?"
+msgstr "Already have an account?"
+
+#: 
+msgid "It’s absolutely free and takes less than 30 seconds."
+msgstr "It’s absolutely free and takes less than 30 seconds."
+

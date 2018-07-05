@@ -1,0 +1,70 @@
+/* Two side page */
+.twosidepage {
+    .leftbg,
+    .rightbg {
+        position: absolute;
+        top: 0;
+        width: 50%;
+
+        min-height: 100%;
+    }
+    .leftbg {
+        left: 0;
+
+        background-color: $color-light;
+    }
+    .rightbg {
+        left: 50%;
+
+        background-color: $color-primary;
+    }
+
+
+    .leftside,
+    .rightside {
+        position: absolute;
+        top: 50%;
+        width: 50%;
+
+        @include transform(translateY(-50%));
+    }
+    .leftside { left: 0; }
+    .rightside { 
+        color: #fff;
+        left: 50%; 
+    }
+
+    .innerwrp {
+        max-width: 300px;
+        margin: 0 auto;
+    }
+}
+
+.twosidepage .section-title {
+    margin-bottom: 16px;
+}
+
+
+@media screen and (max-width: 768px) {
+    .twosidepage {
+        .leftbg, .rightbg { display: none; }
+
+        .leftside,
+        .rightside {
+            position: static;
+            top: auto;
+            width: auto;
+            padding: 50px 20px;
+
+            @include transform(translateY(0%));
+        }
+
+        .leftside {
+            background-color: $color-light;
+        }
+
+        .rightside {
+            background-color: $color-primary;
+        }
+    }
+}

@@ -1,0 +1,158 @@
+/**
+ * Helpers
+ * (c) Onelab <hello@onelab.co>
+ */
+.clearfix { 
+    *zoom: 1; 
+
+    &:before,
+    &:after {
+        display: table; 
+        content: ""; 
+        line-height: 0;
+    }
+
+    &:after {
+        clear: both;
+    }
+}
+
+
+// Margin - Padding offsets
+$offset-sizes: (
+    "0": "0px",
+    "5": "5px",
+    "10": "10px",
+    "15": "15px",
+    "20": "20px",
+    "25": "25px",
+    "30": "30px",
+    "35": "35px",
+    "40": "40px",
+    "45": "45px",
+    "50": "50px",
+    "60": "60px",
+    "70": "70px",
+    "80": "80px",
+    "90": "90px",
+    "100": "100px"
+);
+$offset-directions: (
+  "t": "top",
+  "b": "bottom",
+  "l": "left",
+  "r": "right"
+);
+@each $key, $val in $offset-sizes {
+  @each $class, $dir in $offset-directions {
+    .m#{$class}-#{$key} {
+      margin-#{$dir}: #{$val};
+    }
+
+    .p#{$class}-#{$key} {
+      padding-#{$dir}: #{$val};
+    }
+  }
+
+  .m-#{$key} {
+    margin: #{$val};
+  }
+
+  .p-#{$key} {
+    padding: #{$val};
+  }
+}
+
+
+
+// Font weights
+$fw: 100;
+@while $fw <= 900 {
+  .fw-#{$fw} {
+    font-weight: #{$fw};
+  }
+
+  $fw: $fw + 100;
+}
+
+
+// Font sizes
+$fz: 10;
+@while $fz <= 30 {
+  .fz-#{$fz} {
+    font-size: #{$fz}px;
+  }
+
+  $fz: $fz + 1;
+}
+
+
+.pull-left { 
+  float: left;
+} 
+.pull-right{ 
+  float: right;
+}
+
+.block{
+  display: block;
+} 
+.inline-block{
+  display: inline-block;
+} 
+.none{
+  display: none;
+}
+
+.pos-r{
+  position: relative;
+} 
+.pos-a{
+  position: absolute;
+} 
+.pos-f{
+  position: fixed;
+} 
+.pos-s{
+  position: static;
+}
+
+.of-hidden{
+  overflow: hidden;
+}
+
+.text-c{ 
+  text-align: center;
+} 
+.text-l{ 
+  text-align: left;
+} 
+.text-r{ 
+  text-align: right;
+} 
+.text-j{ 
+  text-align: justify;
+}
+
+.tt-upper{
+  text-transform: uppercase;
+} 
+.tt-lower{
+  text-transform: lowercase;
+} 
+.tt-none{
+  text-transform: none;
+}
+
+.ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.pe-none{
+  pointer-events: none;
+}
+.pe-all {
+  pointer-events: all;
+}

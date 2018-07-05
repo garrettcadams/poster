@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Nextpost v3.0 - Default Theme\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: 
+msgid "About"
+msgstr "О нас"
+
+#: 
+msgid "Features"
+msgstr "Характеристика"
+
+#: 
+msgid "Prices"
+msgstr "Цены"
+
+#: 
+msgid "Hi, %s"
+msgstr "Привет, %s"
+
+#: 
+msgid "Login"
+msgstr "Войти в систему"
+
+#: 
+msgid "Sign up"
+msgstr "Зарегистрироваться"
+
+#: 
+msgid "A Smarter way to <br> Auto Post on Instagram"
+msgstr "Умный способ автопостинга на Instagram\n"
+""
+
+#: 
+msgid "Save time managing your Instagram accounts, publish and analyze all your posts in one panel."
+msgstr "Сэкономьте время на управление учетными записями Instagram, публикацию и анализ всех ваших сообщений в одной панели."
+
+#: 
+msgid "Get started"
+msgstr "Начать"
+
+#: 
+msgid "Free trial available"
+msgstr "Доступна бесплатная пробная версия"
+
+#: 
+msgid "%s day free trial"
+msgid_plural "%s days free trial"
+msgstr[0] "Один день бесплатной пробной версии"
+msgstr[1] "%s дней бесплатной пробной версии"
+msgstr[2] "%s дней бесплатной пробной версии"
+msgstr[3] "%s дней бесплатной пробной версии"
+
+#: 
+msgid "Here is features for you"
+msgstr "Функции для вас"
+
+#: 
+msgid "Unique Design"
+msgstr "Уникальный дизайн"
+
+#: 
+msgid "Multi Accounts"
+msgstr "Несколько учетных записей"
+
+#: 
+msgid "Auto Post Content"
+msgstr "Содержание автопостинга"
+
+#: 
+msgid "Schedule Calendar"
+msgstr "Календарь расписания"
+
+#: 
+msgid "Free Trial"
+msgstr "Бесплатная пробная версия"
+
+#: 
+msgid "Safe to use"
+msgstr "Безопасно для использования"
+
+#: 
+msgid "Mobile Responsive"
+msgstr "Мобильно адаптивный"
+
+#: 
+msgid "Could Import"
+msgstr "Можете импортировать"
+
+#: 
+msgid "Relevant prices for you"
+msgstr "Соответствующие цены для вас"
+
+#: 
+msgid "per month"
+msgstr "помесячно"
+
+#: 
+msgid "Annual Price"
+msgstr "Годовые цены"
+
+#: 
+msgid "You save %s"
+msgstr "Вы економили %s"
+
+#: 
+msgid "Only 1 account"
+msgid_plural "Up to %s accounts"
+msgstr[0] "Только один учетный запись"
+msgstr[1] "До %s учетных записей"
+msgstr[2] "Up to %s accounts"
+msgstr[3] "Up to %s accounts"
+
+#: 
+msgid "Unlimited accounts"
+msgstr "Неограниченные учетные записи"
+
+#: 
+msgid "Zero accounts"
+msgstr "Нулевые учетные записи"
+
+#: 
+msgid "Post Types"
+msgstr "Типы публикаций"
+
+#: 
+msgid "Photo"
+msgstr "Фото"
+
+#: 
+msgid "Video"
+msgstr "Видео"
+
+#: 
+msgid "Story"
+msgstr "История"
+
+#: 
+msgid "Photo+Video"
+msgstr "Фото+видео"
+
+#: 
+msgid "Photo only"
+msgstr "Только фото"
+
+#: 
+msgid "Video only"
+msgstr "Только видео"
+
+#: 
+msgid "Album"
+msgstr "Альбом"
+
+#: 
+msgid "Cloud Import"
+msgstr "Импорт доступен"
+
+#: 
+msgid "Not available"
+msgstr "Недоступен"
+
+#: 
+msgid "Modules"
+msgstr "Modules"
+
+#: 
+msgid "Spintax Support"
+msgstr "Поддержка Spintax"
+
+#: 
+msgid "Storage"
+msgstr "Память"
+
+#: 
+msgid "Copyright"
+msgstr "Авторские права"
+
+#: 
+msgid "Login credentials didn't match!"
+msgstr "Учетные данные входа не совпадают!"
+
+#: 
+msgid "Login with Facebook"
+msgstr "Вход через facebook"
+
+#: 
+msgid "Email address"
+msgstr "Електронный адрес"
+
+#: 
+msgid "Password"
+msgstr "Пароль"
+
+#: 
+msgid "Remember me"
+msgstr "Запомни меня"
+
+#: 
+msgid "Forgot your password?"
+msgstr "Забыли пароль?"
+
+#: 
+msgid "Sign in"
+msgstr "Войти"
+
+#: 
+msgid "Password Reset"
+msgstr "Пароль сброшен"
+
+#: 
+msgid "New Password"
+msgstr "Новый пароль"
+
+#: 
+msgid "Password confirm"
+msgstr "Подтвердить пароль"
+
+#: 
+msgid "Reset Password"
+msgstr "Восстановление пароля"
+
+#: 
+msgid "Success!"
+msgstr "Успешно!"
+
+#: 
+msgid "You've successfully reset your password!"
+msgstr "Вы успешно восстановили пароль."
+
+#: 
+msgid "Password Recovery"
+msgstr "Восстановление пароля"
+
+#: 
+msgid "Your e-mail address"
+msgstr "Ваш електронный адрес"
+
+#: 
+msgid "Submit"
+msgstr "Подтвердите"
+
+#: 
+msgid "Enter your registration email address to receive password reset instructions."
+msgstr "Введите свой регистрационный адрес электронной почты, чтобы получить инструкции по сбросу пароля."
+
+#: 
+msgid "Email Sent!"
+msgstr "Письмо отправлено!"
+
+#: 
+msgid "Password reset instruction sent to your email address."
+msgstr "Инструкции по сбросу пароля отправлены на ваш электронной почтовой адрес."
+
+#: 
+msgid "Signup"
+msgstr "Зарегистрироваться"
+
+#: 
+msgid "Sign up to <br> managing Instagram!"
+msgstr "Подпишитесь как <br> для управления Instagram!"
+
+#: 
+msgid "Firstname"
+msgstr "Имя"
+
+#: 
+msgid "Lastname"
+msgstr "Фамилия"
+
+#: 
+msgid "Email"
+msgstr "Электронный почтовой адрес"
+
+#: 
+msgid "Confirm password"
+msgstr "Подтвердите пароль"
+
+#: 
+msgid "Select your timezone"
+msgstr "Выберите часовой пояс"
+
+#: 
+msgid "Get Started"
+msgstr "Начать"
+
+#: 
+msgid "By creating an acount you agree to our terms of service."
+msgstr "Создав этот аккаунт вы соглашайтесь с условиями использования."
+
+#: 
+msgid "Already have an account?"
+msgstr "У вас уже есть учетная запись?"
+

@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Nextpost v3.0 - Default Theme\n"
+"Language: id\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: 
+msgid "About"
+msgstr "Tentang"
+
+#: 
+msgid "Features"
+msgstr "Fitur"
+
+#: 
+msgid "Prices"
+msgstr "Harga"
+
+#: 
+msgid "Hi, %s"
+msgstr "Hai, %s"
+
+#: 
+msgid "Login"
+msgstr "Masuk"
+
+#: 
+msgid "Sign up"
+msgstr "Mendaftar"
+
+#: 
+msgid "A Smarter way to <br> Auto Post on Instagram"
+msgstr "Sebuah cara yang pintar untuk <br> melakukan Auto Post di Instagram"
+
+#: 
+msgid "Save time managing your Instagram accounts, publish and analyze all your posts in one panel."
+msgstr "Hemat waktu dalam mengatur akun Instagram anda, mempublikasikan dan menganalisa semua postingan anda di satu panel."
+
+#: 
+msgid "Get started"
+msgstr "Mulai"
+
+#: 
+msgid "Free trial available"
+msgstr "Percobaan gratis tersedia"
+
+#: 
+msgid "%s day free trial"
+msgid_plural "%s days free trial"
+msgstr[0] "%s hari percobaan gratis"
+
+#: 
+msgid "Here is features for you"
+msgstr "Ini fitur-fitur untuk anda"
+
+#: 
+msgid "Unique Design"
+msgstr "Desain yang Unik"
+
+#: 
+msgid "Multi Accounts"
+msgstr "Multi Akun"
+
+#: 
+msgid "Auto Post Content"
+msgstr "Auto Post Konten"
+
+#: 
+msgid "Schedule Calendar"
+msgstr "Jadwal Kalender"
+
+#: 
+msgid "Free Trial"
+msgstr "Percobaan Gratis"
+
+#: 
+msgid "Safe to use"
+msgstr "Aman digunakan"
+
+#: 
+msgid "Mobile Responsive"
+msgstr "Responsif Mobile"
+
+#: 
+msgid "Could Import"
+msgstr "Impor dari Cloud"
+
+#: 
+msgid "Relevant prices for you"
+msgstr "Harga yang relevan untuk anda"
+
+#: 
+msgid "per month"
+msgstr "per bulan"
+
+#: 
+msgid "Annual Price"
+msgstr "Harga Tahunan"
+
+#: 
+msgid "You save %s"
+msgstr "Anda hemat %s"
+
+#: 
+msgid "Only 1 account"
+msgid_plural "Up to %s accounts"
+msgstr[0] "Hingga %s akun"
+
+#: 
+msgid "Unlimited accounts"
+msgstr "Akun tidak terbatas"
+
+#: 
+msgid "Zero accounts"
+msgstr "Akun Kosong"
+
+#: 
+msgid "Post Types"
+msgstr "Tipe Post"
+
+#: 
+msgid "Photo"
+msgstr "Foto"
+
+#: 
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgid "Story"
+msgstr "Cerita"
+
+#: 
+msgid "Photo+Video"
+msgstr "Foto+Video"
+
+#: 
+msgid "Photo only"
+msgstr "Hanya foto"
+
+#: 
+msgid "Video only"
+msgstr "Hanya video"
+
+#: 
+msgid "Album"
+msgstr "Album"
+
+#: 
+msgid "Cloud Import"
+msgstr "Impor dari Cloud"
+
+#: 
+msgid "Not available"
+msgstr "Tidak tersedia"
+
+#: 
+msgid "Modules"
+msgstr "Modules"
+
+#: 
+msgid "Spintax Support"
+msgstr "Dukungan Spintax"
+
+#: 
+msgid "Storage"
+msgstr "Penyimpanan"
+
+#: 
+msgid "Copyright"
+msgstr "Hak Cipta"
+
+#: 
+msgid "Login credentials didn't match!"
+msgstr "Data yang dimasukkan tidak cocok!"
+
+#: 
+msgid "Login with Facebook"
+msgstr "Masuk dengan Facebook"
+
+#: 
+msgid "Email address"
+msgstr "Alamat email"
+
+#: 
+msgid "Password"
+msgstr "Kata sandi"
+
+#: 
+msgid "Remember me"
+msgstr "Ingat saya"
+
+#: 
+msgid "Forgot your password?"
+msgstr "Lupa password anda?"
+
+#: 
+msgid "Sign in"
+msgstr "Masuk"
+
+#: 
+msgid "Password Reset"
+msgstr "Atur Ulang Kata Sandi"
+
+#: 
+msgid "New Password"
+msgstr "Kata Sandi Baru"
+
+#: 
+msgid "Password confirm"
+msgstr "Konfimasi Kata Sandi"
+
+#: 
+msgid "Reset Password"
+msgstr "Atur ulang Kata Sandi"
+
+#: 
+msgid "Success!"
+msgstr "Sukses!"
+
+#: 
+msgid "You've successfully reset your password!"
+msgstr "Anda berhasil mengatur ulang kata sandi anda!"
+
+#: 
+msgid "Password Recovery"
+msgstr "Pemulihan Kata Sandi"
+
+#: 
+msgid "Your e-mail address"
+msgstr "Alamat e-mail anda"
+
+#: 
+msgid "Submit"
+msgstr "Kirim"
+
+#: 
+msgid "Enter your registration email address to receive password reset instructions."
+msgstr "Masukkan alamat email pendaftaran anda untuk menerima instruksi atur ulang kata sandi anda."
+
+#: 
+msgid "Email Sent!"
+msgstr "Email telah dikirim!"
+
+#: 
+msgid "Password reset instruction sent to your email address."
+msgstr "Instruksi atur ulang kata sandi telah dikirimkan ke alamat email anda."
+
+#: 
+msgid "Signup"
+msgstr "Mendaftar"
+
+#: 
+msgid "Sign up to <br> managing Instagram!"
+msgstr "Mendaftar untuk <br> mengatur Instagram!"
+
+#: 
+msgid "Firstname"
+msgstr "Nama Depan"
+
+#: 
+msgid "Lastname"
+msgstr "Nama Belakang"
+
+#: 
+msgid "Email"
+msgstr "Email"
+
+#: 
+msgid "Confirm password"
+msgstr "Konfirmasi Kata Sandi"
+
+#: 
+msgid "Select your timezone"
+msgstr "Pilih zona waktu anda"
+
+#: 
+msgid "Get Started"
+msgstr "Mulai"
+
+#: 
+msgid "By creating an acount you agree to our terms of service."
+msgstr "Dengan membuat akun anda setuju dengan kebijakan layanan kami."
+
+#: 
+msgid "Already have an account?"
+msgstr "Sudah mempunyai akun?"
+
+#: 
+msgid "It’s absolutely free and takes less than 30 seconds."
+msgstr "It’s absolutely free and takes less than 30 seconds."
+

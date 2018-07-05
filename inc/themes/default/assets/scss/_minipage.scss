@@ -1,0 +1,36 @@
+/**
+ * Mini page
+ */
+.minipage{
+    .inner {
+        max-width: 400px;
+        margin: 80px auto;
+
+        text-align: center;
+    }
+
+    .icon {
+        display: block;
+        margin-bottom: 24px;
+        
+        font-size: 50px;
+        color: $color-primary;
+
+    }
+
+    p {
+        margin: 0 0 20px;
+
+        color: $color-mid;
+        font-size: 18px;
+        line-height: 25px;
+    }
+}
+
+.minipage-title {
+    margin: 0 0 14px;
+
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 41px;
+}

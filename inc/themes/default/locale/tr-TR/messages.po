@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Nextpost v3.0 - Default Theme\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n>1);\n"
+
+#: 
+msgid "About"
+msgstr "Hakkında"
+
+#: 
+msgid "Features"
+msgstr "Özellikler"
+
+#: 
+msgid "Prices"
+msgstr "Fiyatlar"
+
+#: 
+msgid "Hi, %s"
+msgstr "Selam, %s"
+
+#: 
+msgid "Login"
+msgstr "Oturum aç"
+
+#: 
+msgid "Sign up"
+msgstr "Kaydol"
+
+#: 
+msgid "A Smarter way to <br> Auto Post on Instagram"
+msgstr "Instagram'da Otomatik gönderiler için daha akıllı bir yol"
+
+#: 
+msgid "Save time managing your Instagram accounts, publish and analyze all your posts in one panel."
+msgstr "Instagram hesaplarınızı yönetmek için zamandan tasarruf edin, tüm gönderilerinizi tek bir panoda yayınlayın ve analiz edin."
+
+#: 
+msgid "Get started"
+msgstr "Başlayın"
+
+#: 
+msgid "Free trial available"
+msgstr "Ücretsiz deneme sürümü mevcuttur"
+
+#: 
+msgid "%s day free trial"
+msgid_plural "%s days free trial"
+msgstr[0] "Bir günlük ücretsiz deneme"
+msgstr[1] "%s gün ücretsiz deneme"
+
+#: 
+msgid "Here is features for you"
+msgstr "Sizin için özellikler"
+
+#: 
+msgid "Unique Design"
+msgstr "Eşsiz tasarım"
+
+#: 
+msgid "Multi Accounts"
+msgstr "Hesap çokluğu"
+
+#: 
+msgid "Auto Post Content"
+msgstr "Otomatik gönderi içeriği"
+
+#: 
+msgid "Schedule Calendar"
+msgstr "Planlanmış yayın takvimi"
+
+#: 
+msgid "Free Trial"
+msgstr "Ücretsiz deneme"
+
+#: 
+msgid "Safe to use"
+msgstr "Kullanım için güvenlidir"
+
+#: 
+msgid "Mobile Responsive"
+msgstr "Mobil uygunluk"
+
+#: 
+msgid "Could Import"
+msgstr "Ithal edebilir"
+
+#: 
+msgid "Relevant prices for you"
+msgstr "Sizin için uygun fiyatlar"
+
+#: 
+msgid "per month"
+msgstr "Aylık"
+
+#: 
+msgid "Annual Price"
+msgstr "Yıllık fiyatlar"
+
+#: 
+msgid "You save %s"
+msgstr "Siz %s tasarruf etdiniz."
+
+#: 
+msgid "Only 1 account"
+msgid_plural "Up to %s accounts"
+msgstr[0] "Yalnız bir hesap"
+msgstr[1] "%s kadar hesap"
+
+#: 
+msgid "Unlimited accounts"
+msgstr "Sınırsız hesaplar"
+
+#: 
+msgid "Zero accounts"
+msgstr "Sıfır hesaplar"
+
+#: 
+msgid "Post Types"
+msgstr "Gönderi Tipleri"
+
+#: 
+msgid "Photo"
+msgstr "Fotoğraf"
+
+#: 
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgid "Story"
+msgstr "Hikaye"
+
+#: 
+msgid "Photo+Video"
+msgstr "Fotoğraf+Video"
+
+#: 
+msgid "Photo only"
+msgstr "Yalnız fotoğraf"
+
+#: 
+msgid "Video only"
+msgstr "Yalnız video"
+
+#: 
+msgid "Album"
+msgstr "Albüm"
+
+#: 
+msgid "Cloud Import"
+msgstr "Cloud'dan ekleme"
+
+#: 
+msgid "Not available"
+msgstr "Geçerli değil"
+
+#: 
+msgid "Modules"
+msgstr "Modules"
+
+#: 
+msgid "Spintax Support"
+msgstr "Spintax Yardım"
+
+#: 
+msgid "Storage"
+msgstr "Hafıza"
+
+#: 
+msgid "Copyright"
+msgstr "Copyright"
+
+#: 
+msgid "Login credentials didn't match!"
+msgstr "Giriş kimlik bilgileri eşleşmedi!"
+
+#: 
+msgid "Login with Facebook"
+msgstr "Facebook ile giriş yap"
+
+#: 
+msgid "Email address"
+msgstr "E-mail adresi"
+
+#: 
+msgid "Password"
+msgstr "Şifre"
+
+#: 
+msgid "Remember me"
+msgstr "Beni hatırla"
+
+#: 
+msgid "Forgot your password?"
+msgstr "Şifrenizi mi unuttunuz?"
+
+#: 
+msgid "Sign in"
+msgstr "Giriş yap"
+
+#: 
+msgid "Password Reset"
+msgstr "Şifre sıfırlama"
+
+#: 
+msgid "New Password"
+msgstr "Yeni şifre"
+
+#: 
+msgid "Password confirm"
+msgstr "Şifre onaylama"
+
+#: 
+msgid "Reset Password"
+msgstr "Şifreyi ayarlayın"
+
+#: 
+msgid "Success!"
+msgstr "Başarıyla tamamlandı"
+
+#: 
+msgid "You've successfully reset your password!"
+msgstr "Şifrenizi başarıyla sıfırladınız!"
+
+#: 
+msgid "Password Recovery"
+msgstr "Şifre kurtarma"
+
+#: 
+msgid "Your e-mail address"
+msgstr "Sizin e-mail adresiniz"
+
+#: 
+msgid "Submit"
+msgstr "Gönder"
+
+#: 
+msgid "Enter your registration email address to receive password reset instructions."
+msgstr "Şifre sıfırlama talimatlarını almak için kayıtlı e-posta adresinizi girin."
+
+#: 
+msgid "Email Sent!"
+msgstr "E-posta gönderildi!"
+
+#: 
+msgid "Password reset instruction sent to your email address."
+msgstr "E-posta adresinize şifre sıfırlama talimatı gönderildi."
+
+#: 
+msgid "Signup"
+msgstr "Kaydol"
+
+#: 
+msgid "Sign up to <br> managing Instagram!"
+msgstr "Instagram'ı yönetmek için kaydolun!"
+
+#: 
+msgid "Firstname"
+msgstr "Ad"
+
+#: 
+msgid "Lastname"
+msgstr "Soyat"
+
+#: 
+msgid "Email"
+msgstr "E-posta"
+
+#: 
+msgid "Confirm password"
+msgstr "Şifreyi onayla"
+
+#: 
+msgid "Select your timezone"
+msgstr "Saat dilimini seçin"
+
+#: 
+msgid "Get Started"
+msgstr "Başla"
+
+#: 
+msgid "By creating an acount you agree to our terms of service."
+msgstr "Bir hesap oluşturarak, hizmet şartlarımızı kabul etmiş olursunuz."
+
+#: 
+msgid "Already have an account?"
+msgstr "Zaten bir hesabınız var mı?"
+

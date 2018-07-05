@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Nextpost v3.0 - Default Theme\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 
+msgid "About"
+msgstr "attorno"
+
+#: 
+msgid "Features"
+msgstr "Caratteristiche"
+
+#: 
+msgid "Prices"
+msgstr "Prezzi"
+
+#: 
+msgid "Hi, %s"
+msgstr "Salve, %s"
+
+#: 
+msgid "Login"
+msgstr "Accedi"
+
+#: 
+msgid "Sign up"
+msgstr "Iscriviti"
+
+#: 
+msgid "A Smarter way to <br> Auto Post on Instagram"
+msgstr "Un modo più intelligente per <br> Auto post su Instagram"
+
+#: 
+msgid "Save time managing your Instagram accounts, publish and analyze all your posts in one panel."
+msgstr "Risparmia tempo per gestire i tuoi conti Instagram, pubblica e analizza tutti i tuoi post in un pannello."
+
+#: 
+msgid "Get started"
+msgstr "Ottenere  cominciato"
+
+#: 
+msgid "Free trial available"
+msgstr "Prova gratuita disponibile"
+
+#: 
+msgid "%s day free trial"
+msgid_plural "%s days free trial"
+msgstr[0] "%s giorni di prova gratuita"
+msgstr[1] "%s giorni di prova gratuita"
+
+#: 
+msgid "Here is features for you"
+msgstr "Ecco le caratteristiche per voi"
+
+#: 
+msgid "Unique Design"
+msgstr "Unique Design"
+
+#: 
+msgid "Multi Accounts"
+msgstr "Multi conti"
+
+#: 
+msgid "Auto Post Content"
+msgstr "Auto Post Content"
+
+#: 
+msgid "Schedule Calendar"
+msgstr "Calendario pianificato"
+
+#: 
+msgid "Free Trial"
+msgstr "Prova gratuita"
+
+#: 
+msgid "Safe to use"
+msgstr "Sicuro da usare"
+
+#: 
+msgid "Mobile Responsive"
+msgstr "Mobile Responsive"
+
+#: 
+msgid "Could Import"
+msgstr "Potuto-Importare"
+
+#: 
+msgid "Relevant prices for you"
+msgstr "Prezzi rilevanti per te"
+
+#: 
+msgid "per month"
+msgstr "Al mese"
+
+#: 
+msgid "Annual Price"
+msgstr "Prezzo annuale"
+
+#: 
+msgid "You save %s"
+msgstr "Tu Salva %s"
+
+#: 
+msgid "Only 1 account"
+msgid_plural "Up to %s accounts"
+msgstr[0] "Solo 1 conti"
+msgstr[1] "Fino a %s conti"
+
+#: 
+msgid "Unlimited accounts"
+msgstr "Conti illimitati"
+
+#: 
+msgid "Zero accounts"
+msgstr "Zero conti"
+
+#: 
+msgid "Post Types"
+msgstr "Tipi post"
+
+#: 
+msgid "Photo"
+msgstr "Foto"
+
+#: 
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgid "Story"
+msgstr "Storia"
+
+#: 
+msgid "Photo+Video"
+msgstr "Foto+Video"
+
+#: 
+msgid "Photo only"
+msgstr "Photo only"
+
+#: 
+msgid "Video only"
+msgstr "Solo video"
+
+#: 
+msgid "Album"
+msgstr "Album"
+
+#: 
+msgid "Cloud Import"
+msgstr "nuvola Importare"
+
+#: 
+msgid "Not available"
+msgstr "Non disponibile"
+
+#: 
+msgid "Modules"
+msgstr "Modules"
+
+#: 
+msgid "Spintax Support"
+msgstr "Supporto Spintax"
+
+#: 
+msgid "Storage"
+msgstr "Conservazione"
+
+#: 
+msgid "Copyright"
+msgstr "Diritto d'autore"
+
+#: 
+msgid "Login credentials didn't match!"
+msgstr "Credenziali di accesso non corrisponde!"
+
+#: 
+msgid "Login with Facebook"
+msgstr "Login with Facebook"
+
+#: 
+msgid "Email address"
+msgstr "Posta elettronica indirizzo"
+
+#: 
+msgid "Password"
+msgstr "Parola d'ordine"
+
+#: 
+msgid "Remember me"
+msgstr "Ricordami"
+
+#: 
+msgid "Forgot your password?"
+msgstr "Dimenticato il tuo  parola d'ordine?"
+
+#: 
+msgid "Sign in"
+msgstr "Segno nel"
+
+#: 
+msgid "Password Reset"
+msgstr "Parola d'ordine Resetta"
+
+#: 
+msgid "New Password"
+msgstr "Nuovo Parola d'ordine"
+
+#: 
+msgid "Password confirm"
+msgstr "Parola d'ordine confermare"
+
+#: 
+msgid "Reset Password"
+msgstr "Resetta Parola d'ordine"
+
+#: 
+msgid "Success!"
+msgstr "Successo"
+
+#: 
+msgid "You've successfully reset your password!"
+msgstr "Hai resettato con successo il tuo parola d'ordine!"
+
+#: 
+msgid "Password Recovery"
+msgstr "Parola d'ordine Recupero"
+
+#: 
+msgid "Your e-mail address"
+msgstr "Il tuo indirizzo di posta elettronica"
+
+#: 
+msgid "Submit"
+msgstr "Presentare"
+
+#: 
+msgid "Enter your registration email address to receive password reset instructions."
+msgstr "Inserisci il tuo indirizzo e-mail di registrazione per ricevere le istruzioni reimpostazione della Parola d'ordine ."
+
+#: 
+msgid "Email Sent!"
+msgstr "Posta elettronica Inviato!"
+
+#: 
+msgid "Password reset instruction sent to your email address."
+msgstr "Parola d'ordine Resettare l'istruzione inviata al tuo computer posta elettronica indirizzo."
+
+#: 
+msgid "Signup"
+msgstr "Iscriviti"
+
+#: 
+msgid "Sign up to <br> managing Instagram!"
+msgstr "Registrati su <br> gestire Instagram!"
+
+#: 
+msgid "Firstname"
+msgstr "Nome di battesimo"
+
+#: 
+msgid "Lastname"
+msgstr "Ultimo nome"
+
+#: 
+msgid "Email"
+msgstr "Posta elettronica"
+
+#: 
+msgid "Confirm password"
+msgstr "Confermare parola d'ordine"
+
+#: 
+msgid "Select your timezone"
+msgstr "Seleziona il tuo fuso orario"
+
+#: 
+msgid "Get Started"
+msgstr "Ottenere  Iniziato"
+
+#: 
+msgid "By creating an acount you agree to our terms of service."
+msgstr "Con la creazione di un account accetti i nostri termini di servizio."
+
+#: 
+msgid "Already have an account?"
+msgstr "Già avere un conto?"
+
+#: 
+msgid "It’s absolutely free and takes less than 30 seconds."
+msgstr "It’s absolutely free and takes less than 30 seconds."
+
