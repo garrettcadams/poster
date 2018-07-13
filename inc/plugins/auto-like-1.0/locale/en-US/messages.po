@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: temp\n"
+"Language: en-us\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 
+msgid "Auto Like"
+msgstr "Auto Like"
+
+#: 
+msgid "Invalid parameter"
+msgstr "Invalid parameter"
+
+#: 
+msgid "%s public post"
+msgid_plural "%s public posts"
+msgstr[0] "%s public post"
+msgstr[1] "%s public posts"
+
+#: 
+msgid "Instagram user"
+msgstr "Instagram user"
+
+#: 
+msgid "Hashtags"
+msgstr "Hashtags"
+
+#: 
+msgid "Places"
+msgstr "Places"
+
+#: 
+msgid "People"
+msgstr "People"
+
+#: 
+msgid "Speed"
+msgstr "Speed"
+
+#: 
+msgid "Auto"
+msgstr "Auto"
+
+#: 
+msgid "Recommended"
+msgstr "Recommended"
+
+#: 
+msgid "Very slow"
+msgstr "Very slow"
+
+#: 
+msgid "Slow"
+msgstr "Slow"
+
+#: 
+msgid "Medium"
+msgstr "Medium"
+
+#: 
+msgid "Fast"
+msgstr "Fast"
+
+#: 
+msgid "Very Fast"
+msgstr "Very Fast"
+
