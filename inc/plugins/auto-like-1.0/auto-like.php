@@ -1,10 +1,9 @@
 <?php 
-namespace Plugins\AutoLike;
+namespace Plugins\auto-like-1.0;
 const IDNAME = "auto-like";
 
 // Disable direct access
-if (!defined('APP_VERSION')) 
-    die("Yo, what's up?"); 
+
 
 
 /**
